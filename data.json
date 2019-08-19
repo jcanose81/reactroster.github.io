@@ -1,0 +1,50 @@
+[
+    {
+        "playername": "Chris Davis",
+        "ownerName": "Peter Angelos",
+        "pNotes": "Issues making contact with the ball.",
+        "nextGame": "2019-07-16 19:05"
+    },
+    {   "playername": "Trey Mancini",
+        "ownerName": "Peter Angelos",
+        "pNotes": "No issues. May be traded before deadline.",
+        "nextGame": "2019-07-16 19:05"
+
+    },
+    {   "playername": "Mychal Givens",
+        "ownerName": "Peter Angelos",
+        "pNotes": "No issues. May be traded before deadline.",
+        "nextGame": "2019-07-20 19:05"
+
+    },
+    {   "playername": "Chance Sisco",
+        "ownerName": "Iron Birds",
+        "pNotes": "No issues. May be traded before deadline.",
+        "nextGame": "2019-07-16 19:05"
+
+    },
+    {   "playername": "Dwight Smith, Jr.",
+        "ownerName": "Peter Angelos",
+        "pNotes": "Hits for power and contact. Average defense",
+        "nextGame": "2019-07-21 19:05"
+
+    },
+    {   "playername": "Cal Ripken, Jr.",
+        "ownerName": "N/A",
+        "pNotes": "Retired; Hall of Fame",
+        "nextGame": "2019-08-25 19:05"
+
+    },
+    {   "playername": "Frank Robinson",
+        "ownerName": "N/A",
+        "pNotes": "Retired; Hall of Fame",
+        "nextGame": "N/A"
+
+    },
+    {   "playername": "Boog Powell",
+        "ownerName": "N/A",
+        "pNotes": "Retired",
+        "nextGame": "N/A"
+
+    }
+]
